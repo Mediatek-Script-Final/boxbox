@@ -3,7 +3,7 @@ const productData = [
       id: 1,
       name: "BOX 5G SPEED PRO",
       image:
-        "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
+        "https://i.ibb.co/1RF1Gfq/favicon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY"],
       rating: 5,
