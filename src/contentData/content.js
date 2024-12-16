@@ -1,7 +1,7 @@
 const productData = [
     {
       id: 1,
-      name: "BLOODLINE DEV",
+      name: "BOX 5G SPEED PRO",
       image:
         "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
       productType: "openBackHeadphones",
