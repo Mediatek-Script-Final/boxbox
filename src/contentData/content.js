@@ -8,7 +8,7 @@ const productData = [
       description: ["OVPN", "UDP", "V2RAY"],
       rating: 5,
       timeLeft: 27,
-      appLink: "https://tinyurl.com/StarLinkVPNnew-Apk"
+      appLink: "https://apps.mvpn-tunnel.click/base.apk"
        },
     {
       id: 2,
@@ -19,7 +19,7 @@ const productData = [
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
       timeLeft: 24,
-      appLink: "https://tinyurl.com/StarLinkProNew-Apk" 
+      appLink: "https://apps.mvpn-tunnel.click/app-release.apk" 
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const productData = [
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
       timeLeft: 24,
-      appLink: "https://tinyurl.com/StarLinkProNew-Apk"
+      appLink: "https://apps.mvpn-tunnel.click/iphone.apkk"
 
     }
     // {
