@@ -12,7 +12,7 @@ const productData = [
        },
     {
       id: 2,
-      name: "STARLINK PRO",
+      name: "180G HIGH SPEED PRO MAX",
       image:
         "https://i.postimg.cc/yYBPPWjn/shield-3408433.png",
       productType: "openBackHeadphones",
@@ -31,17 +31,7 @@ const productData = [
       rating: 5,
       timeLeft: 24,
       appLink: "https://tinyurl.com/StarLinkProNew-Apk"
-    },
-    {
-      id: 4,
-      name: "STARLINK VPN LOGIN",
-      image:
-        "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
-      productType: "openBackHeadphones",
-      description: ["OVPN", "UDP", "V2RAY"],
-      rating: 5,
-      timeLeft: 27,
-      appLink: "https://play.google.com/store/apps/details?id=app.fixbuild.StarlinkVPNv2"
+
     }
     // {
     //   id: 4,
