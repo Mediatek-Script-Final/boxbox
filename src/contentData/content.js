@@ -1,7 +1,7 @@
 const productData = [
     {
       id: 1,
-      name: "STARLINK VPN",
+      name: "BLOODLINE DEV",
       image:
         "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
       productType: "openBackHeadphones",
