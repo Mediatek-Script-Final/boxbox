@@ -30,7 +30,7 @@ const productData = [
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
       timeLeft: 24,
-      appLink: "https://apps.mvpn-tunnel.click/iphone.apkk"
+      appLink: "https://apps.mvpn-tunnel.click/iphone.apk"
 
     }
     // {
