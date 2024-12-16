@@ -22,7 +22,7 @@ const productData = [
       appLink: "https://tinyurl.com/StarLinkProNew-Apk" 
     },
     {
-      id: 2,
+      id: 3,
       name: "STARLINK PRO",
       image:
         "https://i.postimg.cc/yYBPPWjn/shield-3408433.png",
@@ -33,7 +33,7 @@ const productData = [
       appLink: "https://tinyurl.com/StarLinkProNew-Apk"
     },
     {
-      id: 3,
+      id: 4,
       name: "STARLINK VPN LOGIN",
       image:
         "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
