@@ -13,7 +13,7 @@ const cover_page = (props) => {
             <div className="subtitle">{props.description}</div>
             <div className='displayStack__2'>
             <a className='appLink' href={props.siteLink}>
-            <button className='productTime'>PANEL LINK</button>
+            
             </a>
           </div>
     </div>
