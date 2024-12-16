@@ -9,6 +9,17 @@ const productData = [
       rating: 5,
       timeLeft: 27,
       appLink: "https://tinyurl.com/StarLinkVPNnew-Apk"
+       },
+    {
+      id: 2,
+      name: "STARLINK PRO",
+      image:
+        "https://i.postimg.cc/yYBPPWjn/shield-3408433.png",
+      productType: "openBackHeadphones",
+      description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
+      rating: 5,
+      timeLeft: 24,
+      appLink: "https://tinyurl.com/StarLinkProNew-Apk" 
     },
     {
       id: 2,
