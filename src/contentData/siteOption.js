@@ -1,11 +1,11 @@
 const siteOptionData = [
     {
       id: 1,
-      siteName: "STARLINK BRAND",
+      siteName: "BLOODLINE DEV",
       image:
-        "https://i.ibb.co/NFWPLbQ/app-main-logo.png",
+        "https://ibb.co/6NhJ7hy",
       description: "Experience a secure and reliable VPN service with enhanced privacy and performance.",
-      siteLink: "https://starlinkbrand.xyz/login"
+     // siteLink: "https://starlinkbrand.xyz/login"
     }
   ];
   export default siteOptionData;
