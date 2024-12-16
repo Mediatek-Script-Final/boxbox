@@ -14,7 +14,7 @@ const productData = [
       id: 2,
       name: "180G HIGH SPEED PRO MAX",
       image:
-        "https://i.postimg.cc/yYBPPWjn/shield-3408433.png",
+        "https://i.ibb.co/wwm20Z4/icon-icon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
@@ -23,9 +23,9 @@ const productData = [
     },
     {
       id: 3,
-      name: "STARLINK PRO",
+      name: "IPHONE SPEED PRO",
       image:
-        "https://i.postimg.cc/yYBPPWjn/shield-3408433.png",
+        "https://i.ibb.co/z7pfLQc/icon-icon.png",
       productType: "openBackHeadphones",
       description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
       rating: 5,
